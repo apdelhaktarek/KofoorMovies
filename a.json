@@ -4,5 +4,5 @@
   "Faselhd": "https?:\/\/(www\.)?(faselhd)",
   "Vidoba": "https?:\/\/(www\.|)?(vidoba)",
   "vidspeeds": "https?:\/\/(vidspeeds)\.[^\/,^\.]{2,}\/.+",
-  "Vidbm": "https?:\/\/(vidbam)\.[^\/,^\.]{2,}\/.+"
+  "Vidbm": "https?:\/\/(vidbam|vadbom)\.[^\/,^\.]{2,}\/.+"
  }
