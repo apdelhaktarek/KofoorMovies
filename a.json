@@ -1,7 +1,7 @@
 {
   "m3u8s": "vidoba|vidshar|vidspeeds",
   "akwam": "https?:\\/\\/(www\\.)?(filerio)",
-  "Faselhd": "https?:\/\/(www\.)?(faselhd)",
+  "Faselhd": "faselhd",
   "Vidoba": "https?:\/\/(www\.|)?(vidoba)",
   "vidspeeds": "https?:\/\/(vidspeeds)\.[^\/,^\.]{2,}\/.+",
   "Vidbm": "https?:\/\/(vidbam|vadbom)\.[^\/,^\.]{2,}\/.+"
